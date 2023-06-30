@@ -23,7 +23,7 @@ Confab is a chat room application that allows users to create chat rooms and eng
 
 To set up Confab locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/confab.git`
+1. Clone the repository: `git clone https://github.com/ayush23719/confab.git`
 2. Navigate to the project directory: `cd confab`
 3. Set up a local server environment (e.g., using XAMPP, WAMP, or MAMP).
 4. Copy the project files to the appropriate directory of your local server.
